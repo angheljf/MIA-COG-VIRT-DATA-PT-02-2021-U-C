@@ -16,3 +16,7 @@ Create charts to visualize a wrestler's wins and losses over the course of four 
 
 Plot the total number of battles each king in the Game of Thrones data set participated in.
 [Watch the Video](https://youtu.be/kVlfHXXmRAg)
+
+- - -
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved. 

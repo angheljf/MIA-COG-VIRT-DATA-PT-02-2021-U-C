@@ -16,3 +16,7 @@ Use `pandas` to read a CSV of Pokemon, create a dataframe, and use `groupby` to 
 
 Analyze the given CSV files using merges.
 [Watch the Video](https://youtu.be/7wrl8xZGGDk)
+
+- - - 
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.

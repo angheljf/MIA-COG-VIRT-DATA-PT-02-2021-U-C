@@ -53,6 +53,4 @@
 
 - - -
 
-### Copyright
-
-Data Boot Camp © 2019. All Rights Reserved.
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.

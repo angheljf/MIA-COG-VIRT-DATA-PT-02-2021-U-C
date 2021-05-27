@@ -32,28 +32,28 @@ body {
 
 /* Here we define some styles that will ONLY be applied at screen sizes below 600 pixels */
 @media (max-width: 600px) {
-  .box-1 {
+  /* .box-1 {
     background: purple;
   } */
 
-  .box-2 {
+  /* .box-2 {
   background: yellow;
   width: 200px;
   height: 200px;
   border-radius: 50%;
   border: solid 2px black;
-  }
+  } */
 
-  .box-3 {
+  /* .box-3 {
     display: none;
-  }
+  } */
 
-  .box-4 {
+  /* .box-4 {
     transform: rotate(360deg);
     transition: transform 0.5s ease-in;
-  }
+  } */
 
-  .box-5 {
+  /* .box-5 {
     width: 0;
     height: 0;
     border-left: 50px solid transparent;
@@ -61,5 +61,5 @@ body {
     border-bottom: 100px solid red;
     background: none;
     margin-left: 300px;
-  }
+  } */
 }
