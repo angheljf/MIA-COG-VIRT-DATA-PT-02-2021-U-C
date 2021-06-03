@@ -15,7 +15,7 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 
 // Define a markerSize function that will give each city a different radius based on its population
 function markerSize(population) {
-  return population / 40;
+  return Math.sqrt(population) / 40;
 }
 
 // Each city object contains the city's name, location and population
@@ -49,7 +49,7 @@ var cities = [
 
 // Loop through the cities array and create one marker for each city object
 for (var i = 0; i < cities.length; i++) {
-  L.circle(cities[i].location, {
+  L.circleMarker(cities[i].location, {
     fillOpacity: 0.75,
     color: "white",
     fillColor: "purple",

@@ -1,6 +1,6 @@
 # World Cup Visualized
 
-In this activity, we will add a circle for each country's all-time FIFA World Cup 3 point wins.
+In this activity, we will add a circle to represent the total all-time 3-point wins for the top-ten winningest countries in the FIFA World Cup up until 2018.
 
 ## Instructions
 
@@ -10,11 +10,11 @@ In this activity, we will add a circle for each country's all-time FIFA World Cu
 
   * A radius size determined by the country's all-time three-point wins.
 
-  * For countries with over 200 points, set the color of the circle to yellow.
+  * For countries with greater than or equal to 200 points, set the color of the circle to blue.
+  
+  * For countries with between 199 and 150 points, set the color of the circle to green.
 
-  * For countries with over 100 points, set the color of the circle to blue.
-
-  * For countries with over 90 points, set the color of the circle to green.
+  * For countries with between 149 and 100 points, set the color of the circle to yellow.
 
   * Render the remaining country circles in red.
 
