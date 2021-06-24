@@ -40,7 +40,7 @@ Both of these challenges encompass a real-world situation where your newfound Py
 
   * The greatest increase in profits (date and amount) over the entire period
 
-  * The greatest decrease in losses (date and amount) over the entire period
+  * The greatest decrease in profits (date and amount) over the entire period
 
 * As an example, your analysis should look similar to the one below:
 
@@ -109,7 +109,10 @@ Both of these challenges encompass a real-world situation where your newfound Py
   * Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
 
+## Rubric
 
-## Copyright
+[Unit 3 Rubric - Python Homework - Py Me Up, Charlie](https://docs.google.com/document/d/1Q5ZnMUD12NvbElOgE3a_lcahuRZdv83aDu9VtXZRiGg/edit?usp=sharing)
 
-Trilogy Education Services © 2019. All Rights Reserved.
+- - -
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.

@@ -22,7 +22,7 @@ Now, it's time to take what you've learned about Python Pandas and apply it to n
 
 ![Fantasy](Images/Fantasy.png)
 
-Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
+Congratulations! After a lot of hard work in the data wrangling mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
 
@@ -60,6 +60,14 @@ Your final report should include each of the following:
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group
+
+### Purchasing Analysis (age)
+
+* The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
+  * Purchase Count
+  * Average Purchase Price
+  * Total Purchase Value
+  * Average Purchase Total per Person by Age
 
 ### Top Spenders
 
@@ -194,6 +202,16 @@ As final considerations:
 
 * Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
-### Copyright
+## Rubric
 
-Trilogy Education Services © 2019. All Rights Reserved.
+[Unit 4 Rubric - Pandas Homework - Pandas, Pandas, Pandas](https://docs.google.com/document/d/1VwP0gfKN-ZGZvIhuaKmx00wCcPOMC5qofXXFcUGe90E/edit?usp=sharing)
+
+- - -
+
+## References
+
+Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
+
+- - -
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.

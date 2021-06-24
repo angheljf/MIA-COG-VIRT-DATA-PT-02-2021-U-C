@@ -126,6 +126,10 @@ For those looking for an additional challenge, you will evaluate the number of b
 
 * To submit your homework, upload the solution and files to a GitHub repo, Dropbox, or Google Drive and submit the link to <https://bootcampspot.com/>.
 
+## Rubric
+
+[Unit 1 Rubric - Excel Homework: Kickstart My Chart](https://docs.google.com/document/d/1RucBXrHMoOa8E4lta5bfaAfUxvRBvMjPELh3uHJL0tY/edit?usp=sharing)
+
 ## Employer-Ready Criteria
 
 Students who are marked as employer-ready gain access to our employer referral program, additional workshops, and other resources. Work with your Career Director to become employer-ready. At a minimum, you must have:
@@ -140,4 +144,4 @@ Students who are marked as employer-ready gain access to our employer referral p
 
 - - -
 
-© 2019 Trilogy Education Services
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
